@@ -1,4 +1,6 @@
 # 💫 About Me:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulmaniya23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 👋 Hey there! I'm a Senior iOS Developer with over 8 years of diverse software development experience in tech. From developing to leading, I have done it all! I am proficient in creating apps for iOS and well-versed in developing frontends and backends. Beyond iOS, I led teams in various tech companies. My expertise spans numerous industries, and I've partnered with remarkable companies from all around the globe. I know a vast array of technologies and tools that I have used to create some pretty amazing applications!<br><br>My Services:<br>☄️ MVP | MLP | Startup Launch | Product Growth Consulting<br>📱 Native iOS Mobile App Development<br>🧠 Tech Advisor<br>🌐 Backend Development Firebase<br>🕶️ AR/VR Development<br><br>Who I work with:<br>🚀 Startups – take your idea through the startup lifecycle within a reasonable budget and timeline.<br>🙋 Small and Medium Businesses – acquire software excellence to boost your current product.<br><br>Results:<br>✅ Developed apps with over 200,000+ monthly active users.<br>✅ A startup gained early adopters for their MVP using TestFlight<br>✅ A product company increased its user base by 35% by scaling its app onto a new platform.<br>✅ A services company grew its profits by 70%, thanks to an iOS streaming app.<br><br>Working with me, you will get:<br>🕵️ Transparent process with various tracking tools and regular meetings.<br>💬 Prompt responses and concise explanations.<br>🧠 Expert consulting and tailored advice based on your specific needs.<br>🔄 Smooth integration with existing workflows and effective collaboration with your team.<br>🌍 Flexibility to work with clients across different time zones, from San Francisco to London.<br>📚 Thorough documentation and dedicated support throughout the transition period.<br><br>A very important message to any customer who could be working with me: “I take your project as my project” so I always will be 100% dedicated to successful project completion
 
 
@@ -10,7 +12,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikulmaniya23&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikulmaniya23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulmaniya23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikulmaniya23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
